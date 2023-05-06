@@ -1,6 +1,8 @@
 # Berlin Clock
 Pet-projects
 
+![image](https://user-images.githubusercontent.com/74911760/236594030-466ec634-42b5-4477-8dfa-a2ec92945e1f.png)
+
 **Main Feature**
 
 - You pick a time (hour & minutes) in date picker
