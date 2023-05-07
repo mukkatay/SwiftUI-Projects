@@ -1,4 +1,4 @@
-### Rock Paper Scissors App 
+# Rock Paper Scissors App 
 
 **Main Feature**
 
