@@ -3,7 +3,7 @@
 **Main Feature**
 
 
-![RockPaperScissorsApp_out](https://user-images.githubusercontent.com/74911760/236671328-5ed2cae7-002c-4c8e-acdd-f856af59d3e9.gif = 250x250)
+![RockPaperScissorsApp_out](https://user-images.githubusercontent.com/74911760/236671328-5ed2cae7-002c-4c8e-acdd-f856af59d3e9.gif | 250x250)
 
 - Game has two modes
     - Singleplayer (you play vs computer)
